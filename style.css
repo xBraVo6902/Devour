@@ -197,15 +197,15 @@
 	}
 
 	.services-items .item .image-container {
-		width: 100%; /* Asegurarse de que el contenedor ocupe todo el ancho del item */
-		overflow: hidden; /* Ocultar cualquier parte de la imagen que se salga */
-		margin-bottom: 20px; /* Espacio entre la imagen y el contenido */
+		width: 100%; 
+		overflow: hidden; 
+		margin-bottom: 20px; 
 	}
 	
 	.services-items .item .image-container img {
-		width: 100%; /* Imagen ocupa todo el ancho del contenedor */
-		height: auto; /* Altura se ajusta automáticamente para mantener la proporción */
-		object-fit: cover; /* La imagen cubre todo el contenedor, recortando si es necesario */
+		width: 100%; 
+		height: auto; 
+		object-fit: cover; 
 	}
 	
 
